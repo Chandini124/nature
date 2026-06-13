@@ -1,0 +1,50 @@
+.image{
+    background-position: center;
+    height: auto;
+    width: 100vw;
+    display: block;
+     padding-right: 30px;
+     padding-left:  30px;
+     border-radius: 30px;
+}
+.img{
+    background-image: url("https://tse1.mm.bing.net/th/id/OIP.cSEzyWb1qZCnW0-bJaJklAHaEK?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+p{
+    font-size: 24px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 20px; 
+}
+.ani{
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.JnUoA7L8DwK5upYu4JnUXAHaEJ?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+p{
+    font-size: 24px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 20px; 
+}
+.birds{
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.JnUoA7L8DwK5upYu4JnUXAHaEJ?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+p{
+    font-size: 24px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 20px; 
+  
+}
+     
